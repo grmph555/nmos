@@ -1,9 +1,6 @@
 NMOS is a family name for specifications produced by the [Advanced Media Workflow Association](https://www.amwa.tv) related to networked media for professional applications.
 
-Here you will find general information about these Specifications – start with the [Technical Overview](branches/master/NMOS_Technical_Overview.md),
-and you will also find an [FAQ](branches/master/FAQ.md), [glossary](branches/master/Glossary.md) and [list of available implementations](branches/master/NMOS-Solutions.md). 
-
-Further information to help developers and users can be found at <https://github.com/AMWA-TV/nmos/wiki>.  
+[//]: # "INTRO-START"
 
 The table below lists the current specifications and provides links to their repositories on [github.com/AMWA-TV](https://github.com/AMWA-TV/) and documentation on [specs.amwa.tv](https://specs.amwa.tv). The "Version" links will take you to the documentation and download page (↓) for the latest release of recent versions of the specification.
 
@@ -27,3 +24,9 @@ BCP-004-01 | [NMOS Receiver Capabilities](https://specs.amwa.tv/bcp-004-01) | Wo
 n/a | [NMOS EDID Connection Management](https://specs.amwa.tv/nmos-edid-connection-management/) | Work In Progress  | | [nmos-edid-connection-management](https://github.com/AMWA-TV/nmos-edid-connection-management)
 n/a | [Parameter Registers](https://specs.amwa.tv/nmos-parameter-registers/) | Continuing  | | [nmos-parameter-registers](https://github.com/AMWA-TV/nmos-parameter-registers)
 
+
+[//]: # "INTRO-END"
+
+## Getting started
+
+See the documents listed below.
